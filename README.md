@@ -2,7 +2,6 @@
 - 👀 I’m interested in deep learning and Unity application developing.
 - 🌱 I’m currently learning springboot and Unity XR.
 - 💞️ I’m looking to collaborate on someone who is familiar with my research field.
-- 📫 How to reach me xuyichang2003@gmail.com.
 
 <!---
 Kobe972/Kobe972 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
